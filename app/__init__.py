@@ -1,0 +1,1 @@
+"""VectorHub addon package."""
